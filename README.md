@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <p align="center">
-I'm currently a <strong>Front-End Web Development</strong> learner at <strong>ALX Software Engineering</strong>.  
+I'm currently a <strong>Front-End Web Development</strong> aspiring at <strong>ALX Software Engineering</strong>.  
 My passion lies in transforming creative design ideas into functional, responsive, and visually engaging digital experiences.  
 I love building modern websites that merge clean UI with great user experience.
 </p>
